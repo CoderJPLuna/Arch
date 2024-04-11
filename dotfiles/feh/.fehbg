@@ -1,2 +1,2 @@
 #!/bin/sh
-feh --no-fehbg --bg-fill '/home/ArchLinux/wallpaper/wallpaper.png' 
+feh --no-fehbg --bg-fill '/home/ArchLinux/Wallpapers/wallpaper.png' 
