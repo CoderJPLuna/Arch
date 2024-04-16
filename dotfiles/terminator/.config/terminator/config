@@ -1,0 +1,23 @@
+[global_config]
+[keybindings]
+[profiles]
+  [[default]]
+    background_type = transparent
+    font = JetBrainsMonoNL Nerd Font 13
+    use_system_font = False
+    title_hide_sizetext = True
+    title_transmit_fg_color = "#000000"
+    title_transmit_bg_color = "#a0f4ff"
+  [[ArchLinux]]
+    background_type = transparent
+    font = JetBrainsMonoNL Nerd Font 13
+    use_system_font = False
+[layouts]
+  [[default]]
+    [[[window0]]]
+      type = Window
+      parent = ""
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+[plugins]
